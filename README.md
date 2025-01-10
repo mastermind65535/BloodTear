@@ -104,7 +104,7 @@ class WindowsEngine:
     def parse_Optional(self): return self.__EXOBJ.OPTIONAL_HEADER.dump_dict()
 ```
 
-### Legacy Projects|
+### Legacy Projects
 | Project Name          | Project Description                       | URL                                                                              | Status        |
 |-----------------------|-------------------------------------------|----------------------------------------------------------------------------------|---------------|
 | BytesCracker v1.0.0   | Python Capstone Disassembler              | [ByteCracker v1.0.0 ~ v2.5.0](https://github.com/mastermind65535/ByteCracker)    | **Failed**    |
