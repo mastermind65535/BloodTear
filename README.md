@@ -110,5 +110,6 @@ class WindowsEngine:
 | BytesCracker v1.0.0   | Python Capstone Disassembler              | [ByteCracker v1.0.0 ~ v2.5.0](https://github.com/mastermind65535/ByteCracker)    | **Failed**    |
 | BytesCracker v2.0.0   | C++ Windows x64 & x86 Machine Code Parser | [ByteCracker v1.0.0 ~ v2.5.0](https://github.com/mastermind65535/ByteCracker)    | **Failed**    |
 | BytesCracker v2.5.0   | C++ Windows x64 & x86 Machine Code Parser | [ByteCracker v1.0.0 ~ v2.5.0](https://github.com/mastermind65535/ByteCracker)    | **Failed**    |
-| HDE v4.8.2            | Advanced Python Decompile Engine          | N/A                                                                              | **Failed**    |
-| HDE v1.0.0            | Compiler & Linker Detector                | N/A                                                                              | **Failed**    |
+| HDE v5.8.3            | Advanced Python Decompile Engine(?)       | [HDE v1.0.0 ~ v.5.8.3](https://github.com/mastermind65535/HDE)                   | **Failed**    |
+| HDE v4.8.2            | Advanced Python Decompile Engine(?)       | [HDE v1.0.0 ~ v.5.8.3](https://github.com/mastermind65535/HDE)                   | **Failed**    |
+| HDE v1.0.0            | Compiler & Linker Detector                | [HDE v1.0.0 ~ v.5.8.3](https://github.com/mastermind65535/HDE)                   | **Failed**    |
