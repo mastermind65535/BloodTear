@@ -105,9 +105,10 @@ class WindowsEngine:
 ```
 
 ### Legacy Projects
-| Project Name          | Project Description                       | URL           |
-|-----------------------|-------------------------------------------|---------------|
-| BytesCracker v1.0.0   | Python Capstone Disassembler              | N/A           |
-| BytesCracker v2.0.0   | C++ Windows x64 & x86 Machine Code Parser | N/A           |
+| Project Name          | Project Description                       | URL                                                   |
+|-----------------------|-------------------------------------------|-------------------------------------------------------|
+| BytesCracker v1.0.0   | Python Capstone Disassembler              | [ByteCracker v1.0.0 ~ v2.5.0](https://github.com/mastermind65535/ByteCracker)    |
+| BytesCracker v2.0.0   | C++ Windows x64 & x86 Machine Code Parser | [ByteCracker v1.0.0 ~ v2.5.0](https://github.com/mastermind65535/ByteCracker)    |
+| BytesCracker v2.5.0   | C++ Windows x64 & x86 Machine Code Parser | [ByteCracker v1.0.0 ~ v2.5.0](https://github.com/mastermind65535/ByteCracker)    |
 | HDE v4.8.2            | Advanced Python Decompile Engine          | N/A           |
 | HDE v1.0.0            | Compiler & Linker Detector                | N/A           |
