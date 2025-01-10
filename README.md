@@ -104,11 +104,11 @@ class WindowsEngine:
     def parse_Optional(self): return self.__EXOBJ.OPTIONAL_HEADER.dump_dict()
 ```
 
-### Legacy Projects
-| Project Name          | Project Description                       | URL                                                   |
-|-----------------------|-------------------------------------------|-------------------------------------------------------|
-| BytesCracker v1.0.0   | Python Capstone Disassembler (failed)             | [ByteCracker v1.0.0 ~ v2.5.0](https://github.com/mastermind65535/ByteCracker)    |
-| BytesCracker v2.0.0   | C++ Windows x64 & x86 Machine Code Parser (failed) | [ByteCracker v1.0.0 ~ v2.5.0](https://github.com/mastermind65535/ByteCracker)    |
-| BytesCracker v2.5.0   | C++ Windows x64 & x86 Machine Code Parser (failed) | [ByteCracker v1.0.0 ~ v2.5.0](https://github.com/mastermind65535/ByteCracker)    |
-| HDE v4.8.2            | Advanced Python Decompile Engine (failed)         | N/A           |
-| HDE v1.0.0            | Compiler & Linker Detector (failed)               | N/A           |
+### Legacy Projects|
+| Project Name          | Project Description                       | URL                                                                              | Status        |
+|-----------------------|-------------------------------------------|----------------------------------------------------------------------------------|---------------|
+| BytesCracker v1.0.0   | Python Capstone Disassembler              | [ByteCracker v1.0.0 ~ v2.5.0](https://github.com/mastermind65535/ByteCracker)    | **Failed**    |
+| BytesCracker v2.0.0   | C++ Windows x64 & x86 Machine Code Parser | [ByteCracker v1.0.0 ~ v2.5.0](https://github.com/mastermind65535/ByteCracker)    | **Failed**    |
+| BytesCracker v2.5.0   | C++ Windows x64 & x86 Machine Code Parser | [ByteCracker v1.0.0 ~ v2.5.0](https://github.com/mastermind65535/ByteCracker)    | **Failed**    |
+| HDE v4.8.2            | Advanced Python Decompile Engine          | N/A                                                                              | **Failed**    |
+| HDE v1.0.0            | Compiler & Linker Detector                | N/A                                                                              | **Failed**    |
