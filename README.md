@@ -1,5 +1,5 @@
 # BloodTear
-Advanced Decompiler & Disassembler
+Advanced Debugger + Disassembler + Decompiler
 
 
 ## Version: v1.0.0
